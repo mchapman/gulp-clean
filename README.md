@@ -1,4 +1,4 @@
-## Deprecated use [gulp-rimraf](https://github.com/robrich/gulp-rimraf) instead!
+## Deprecated use [del](https://github.com/sindresorhus/del) instead!  See  https://github.com/gulpjs/gulp/blob/master/docs/recipes/delete-files-folder.md
 
 
 
